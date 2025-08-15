@@ -5,7 +5,7 @@ This is a  roguelike game built with Unity. The gameplay focuses on fighting wav
 
 ## Unity Version
 
-Unity: 2021.3.23f1 (LTS)
+Unity: 2021.3.20f1 (LTS)
 
 Programming Language: C#
 
